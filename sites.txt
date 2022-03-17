@@ -1,0 +1,12 @@
+Video tutorial
+https://www.youtube.com/watch?v=lPJVi797Uy0
+
+Generate SVG
+https://www.shapedivider.app
+https://haikei.app
+
+KUTE
+https://thednp.github.io/kute.js/
+
+KUTE CDN
+https://cdn.jsdelivr.net/npm/kute.js@2.2.2/dist/kute.min.js
